@@ -10,3 +10,10 @@
 - Laura Laurenti
 - Santo Palaia
 
+## The content of the repository is
+
+* `README.md`: a Markdown file that explains the content of our repository
+* `SL_FINAL_PROJECT_MERGE+FILE+CLEANING+MODEL.ipynb`: a jupyter notebook that contains the  code we implemented for our project
+* `StatisticalLearning_Slides_Group02.pdf`: a pdf file containing the slides we prepared for the project presentation.
+* `StatisticalLearning_ReportG02.pdf`: a pdf file containing the report of the project
+
